@@ -1,0 +1,32 @@
+Demographic Analysis:
+	- Average age of accident victims is 42
+
+	- 61.22% female to 38.78% male
+
+	- Ages between 55 and 64 survival chances are low
+
+Impact of Safety Measures:
+	- More people survived while no helmets used than those who didn't survive.
+	  Number of people who didn't survive while using a helmet is slightly higher than those who did survive.
+
+	- Percentage of accident victims who were wearing seatbelts 26.0%
+
+	- Number of people who did not survive without a seatbelt on is slightly higher than those who did survive.
+	  People with seatbelt on have higher chances of survival.
+
+	- Number of victims with both seatbelt and helmet on is 34 more than half of the
+	  of people with seatbelt and helmet on are victims.
+
+Speed and Severity:
+	- Highest speed of impact recorded is 119 and only two achieved it one of them is a victim.
+
+	- People driving above 100 got the lowest survival chances
+
+Comparative Insights
+	- Yes, number of female victims is slightly higher
+
+	- Yes
+
+	- A lot of people used safety measures and most of those who used it did survive
+
+	- Yes
